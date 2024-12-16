@@ -1,6 +1,8 @@
 # Projet Booki - Intégration de la Maquette
 
-![booki](https://github.com/user-attachments/assets/c84a33fa-41bf-4dfe-bf8d-3b10e90edcfa)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c84a33fa-41bf-4dfe-bf8d-3b10e90edcfa" alt="Booki" width="100%" />
+</p>
 
 ## Description
 
